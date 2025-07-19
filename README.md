@@ -2,9 +2,9 @@
 
 <hr>
 
-- âœ… **BitBucket Link:** <https://bitbucket.org/toarnabtrainer/aec_cc_batch_4_july_2025/src/main/> or <https://tinyurl.com/z78xmbms>
-- âœ… **Online Session MS-Teams Link for all sessions:** <https://tinyurl.com/2s3yxjnr>
-- âœ… **Notepad.pw Link:** <https://notepad.pw/p5Achs3EAtvkDLsbUxOg>
+-  **BitBucket Link:** <https://bitbucket.org/toarnabtrainer/aec_cc_batch_4_july_2025/src/main/> or <https://tinyurl.com/z78xmbms>
+-  **Online Session MS-Teams Link for all sessions:** <https://tinyurl.com/2s3yxjnr>
+-  **Notepad.pw Link:** <https://notepad.pw/p5Achs3EAtvkDLsbUxOg>
   
 <hr>
 
@@ -72,8 +72,8 @@
 
 <hr>
 
-- âœ… **MS-Office/O365 Reference Tutorial Links -** <br>
-- âœ… **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
+-  **MS-Office/O365 Reference Tutorial Links -** <br>
+-  **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
 * **MS-Office 2013:** https://edu.gcfglobal.org/en/topics/office2013/
 * **MS-Office 2016:** https://edu.gcfglobal.org/en/topics/office2016/
