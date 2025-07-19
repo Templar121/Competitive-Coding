@@ -1,4 +1,5 @@
-# Competitive Coding
+# Competitive_Coding_AEC_July_2025_Batch_4
+
 <hr>
 
 - âœ… **BitBucket Link:** <https://bitbucket.org/toarnabtrainer/aec_cc_batch_4_july_2025/src/main/> or <https://tinyurl.com/z78xmbms>
@@ -7,39 +8,39 @@
   
 <hr>
 
-- âœ… **Competitive Coding Exam-1 (For Beginners):** <https://www.hackerrank.com/competitive-coding-exam-1-for-beginners>
-- âœ… **Competitive Coding Exam-2 (For Beginners):** <https:www.hackerrank.com/competitive-coding-exam-2-for-beginners->
-- âœ… **Hackerrank Submission Status:** <https://bit.ly/3hPmAKJ>
+-  **Competitive Coding Exam-1 (For Beginners):** <https://www.hackerrank.com/competitive-coding-exam-1-for-beginners>
+-  **Competitive Coding Exam-2 (For Beginners):** <https:www.hackerrank.com/competitive-coding-exam-2-for-beginners->
+-  **Hackerrank Submission Status:** <https://bit.ly/3hPmAKJ>
 
 <hr>
 
-- âœ… **All Competitive Exam Notifications Available at:** <https://clist.by/>
-- âœ… **Competitive Coding Tutorial Link:** <https://workat.tech/>
-- âœ… **Competitive Coding Exam Portal Link:** <https://vjudge.net/>
+-  **All Competitive Exam Notifications Available at:** <https://clist.by/>
+-  **Competitive Coding Tutorial Link:** <https://workat.tech/>
+-  **Competitive Coding Exam Portal Link:** <https://vjudge.net/>
 
 <hr>
 
-- âœ… **CodeChef Problem List:** https://www.codechef.com/YTPP001/
-- âœ… **Find Second Largest:** https://www.codechef.com/problems/SECLAR
-- âœ… **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
-- âœ… **Odd Even Multiple:** https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
-- âœ… **Not Last:** https://www.codechef.com/YTPP001/problems/LSTSEV (Only Run)
-- âœ… **Raju and His Trip:** https://www.codechef.com/YTPP001/problems/VALTRI (Only Run)
-- âœ… **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN (Only Run)
-- âœ… **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
-- âœ… **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
-- âœ… **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
-- âœ… **Sum of Digits:** https://www.codechef.com/problems/FLOW006
-- âœ… **Add Digits (Digital Root):** https://leetcode.com/problems/add-digits/description/
-- âœ… **Distinct Pairs:** https://www.codechef.com/learn/course/cpp/LRNDSA03/problems/DPAIRS
-- âœ… **Hardest Problem Bet:** https://www.codechef.com/problems/HARDBET
-- âœ… **HCF and LCM:** https://www.codechef.com/YTPP001/problems/FDGHLM
-- âœ… **CodeChef Various Problem Solving (in Java) GitHub:** https://github.com/charles-wangkai/codechef
-- âœ… **Other Codechef Practice Problems:** https://www.codechef.com/YTPP001?order=asc&page=1&sortBy=name
+-  **CodeChef Problem List:** https://www.codechef.com/YTPP001/
+-  **Find Second Largest:** https://www.codechef.com/problems/SECLAR
+-  **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
+-  **Odd Even Multiple:** https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
+-  **Not Last:** https://www.codechef.com/YTPP001/problems/LSTSEV (Only Run)
+-  **Raju and His Trip:** https://www.codechef.com/YTPP001/problems/VALTRI (Only Run)
+-  **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN (Only Run)
+-  **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
+-  **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
+-  **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
+-  **Sum of Digits:** https://www.codechef.com/problems/FLOW006
+-  **Add Digits (Digital Root):** https://leetcode.com/problems/add-digits/description/
+-  **Distinct Pairs:** https://www.codechef.com/learn/course/cpp/LRNDSA03/problems/DPAIRS
+-  **Hardest Problem Bet:** https://www.codechef.com/problems/HARDBET
+-  **HCF and LCM:** https://www.codechef.com/YTPP001/problems/FDGHLM
+-  **CodeChef Various Problem Solving (in Java) GitHub:** https://github.com/charles-wangkai/codechef
+-  **Other Codechef Practice Problems:** https://www.codechef.com/YTPP001?order=asc&page=1&sortBy=name
 
 <hr>
 
-- âœ… **DSA Playlist on YouTube:** https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+-  **DSA Playlist on YouTube:** https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
 <hr>
 
@@ -50,20 +51,20 @@
 
 ![Anaconda_Logo](https://github.com/user-attachments/assets/52895335-6d32-415b-bc2f-42e88bda388b)
 
-- âœ… **Anaconda Download Link:** <br>
+-  **Anaconda Download Link:** <br>
 * https://www.anaconda.com/products/distribution
 
-- âœ… **How to Install Anaconda on Windows 10 (2022):** <br>
+-  **How to Install Anaconda on Windows 10 (2022):** <br>
 * https://www.youtube.com/watch?v=UTqOXwAi1pE
 
-- âœ… **How to uninstall Anaconda completely from Windows 10:** <br>
+-  **How to uninstall Anaconda completely from Windows 10:** <br>
 * https://www.youtube.com/watch?v=OUkHXMwu-JY
 
-- âœ… **Online Python Editors:** <br>
+-  **Online Python Editors:** <br>
 * https://onecompiler.com/ <br>
 * https://www.onlinegdb.com/
 
-- âœ… **Python Study Material Links:** <br>
+-  **Python Study Material Links:** <br>
 * **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 * **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
 * **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
